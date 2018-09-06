@@ -1,2 +1,2 @@
-# machine_learning_nanodegree
-Machine Learning Nanodegree Projects
+# Machine Learning Nanodegree
+Machine Learning Projects
